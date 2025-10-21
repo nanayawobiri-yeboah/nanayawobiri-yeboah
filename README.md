@@ -4,7 +4,8 @@ Hi there 👋, I'm Nana Yaw an aspiring Data Analyst hoping to transform data in
 
 ## About Me 
 • 📈 Skilled in Python, SQL, Advanced Excel and Tableau, I specialise in data analysis, visualisation and dashboard creation.
-• I'm enthusiastic about problem-solving, and my expertise extends to Python, machine learning, and more.
+
+• 😃I'm enthusiastic about problem-solving, and my expertise extends to Python, machine learning, and more.
 
 ## What You'll Find Here
 
